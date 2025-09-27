@@ -14,7 +14,7 @@ The setup allows you to:
 
 ## 📊 Architecture  
 
-![Lakehouse Architecture](./Untitled%20Diagram.drawio%20(1).png)  
+![Lakehouse Architecture](./image/Trino.png)  
 
 **Flow:**  
 1. Data is stored in **Blob Storage, S3 (MinIO), Iceberg tables, or Snowflake**.  
